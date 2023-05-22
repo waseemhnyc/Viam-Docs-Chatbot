@@ -1,15 +1,17 @@
-# Viam Docs Chatbot
+# Viam Docs Chatbot 🤖
 
 **Work In Progress! [Follow for updates](https://twitter.com/waseemhnyc)**
 
-This chatbot lets you ask the Viam docs questions to help you in your next Robotics project. We use Langchain to load data from the [Viam Robotics docs](https://github.com/viamrobotics/docs), embed the data and then find the relevant information based on the user's question. We pass that relevant information to OpenAI GPT4 with the question to generate a thoughtful answer.
+**This chatbot lets you ask the [Viam docs](https://github.com/viamrobotics/docs) questions to help you in your next Robotics project!**
 
-## Ways to improve and future updates
+We use Langchain to load data from the [Viam Robotics docs](https://github.com/viamrobotics/docs), embed the data and then find the relevant information based on the user's question. We pass that relevant information to OpenAI GPT4 with the question to generate a helpful answer.
 
-1. Deploy a live app so anyone could access this chatbot
-2. Embed and load documentation from the Python/Typescript/Go SDKs so chatbot could answer with more code examples
-3. Integrate a Speech to Text and Text to Speech, so you could speak to the chatbot
-4. Create a code assistant agent that will help develop your robotics application with Viam
+## Ways to Improve and Future Updates
+
+1. 🌐 Deploy a live app so anyone could access this chatbot
+2. 📑 Embed and load documentation from the Python/Typescript/Go SDKs so chatbot could answer with more code examples
+3. 🗣️ Integrate a Speech to Text and Text to Speech, so you could speak to the chatbot
+4. 🤖 Create a code assistant agent that will help develop your robotics application with Viam
 
 Have an idea on how to improve? Please reach out!
 
