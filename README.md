@@ -1,8 +1,8 @@
 # Viam Docs Chatbot
 
-This project is a work in progress! Looking to improve and add more features.
+**Work In Progress! [Follow for updates](https://twitter.com/waseemhnyc)**
 
-This chatbot lets you ask the Viam docs questions to help you in your next Robotics project. We use Langchain to load data from the [Viam Robotics docs](https://github.com/viamrobotics/docs), embed the data and then find the relevant information based on the user's question. We pass that relevant information to OpenAI GPT4 to generate an answer.
+This chatbot lets you ask the Viam docs questions to help you in your next Robotics project. We use Langchain to load data from the [Viam Robotics docs](https://github.com/viamrobotics/docs), embed the data and then find the relevant information based on the user's question. We pass that relevant information to OpenAI GPT4 with the question to generate a thoughtful answer.
 
 ## Ways to improve and future updates
 
@@ -13,7 +13,7 @@ This chatbot lets you ask the Viam docs questions to help you in your next Robot
 
 Have an idea on how to improve? Please reach out!
 
-## Questions or Get in Touch
+## Questions, Follow for Updates or Get in Touch
 
 Twitter: https://twitter.com/waseemhnyc
 
